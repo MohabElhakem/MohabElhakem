@@ -37,12 +37,6 @@
 ## 📝Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohabashraf&theme=radical)
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohabashraf&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohabashraf&layout=compact&theme=radical)
 
 ---
 
