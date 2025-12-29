@@ -32,10 +32,15 @@ My goal is to join a professional team where I can contribute, learn from real p
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)  
+
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)  
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 
